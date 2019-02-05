@@ -1,0 +1,38 @@
+.darkBG {
+    background: #999;
+}
+.darkerBG {
+    background: #666;
+}
+.darkestBG {
+    background: #333;
+}
+.header-text{
+    font-size: 40px;
+}
+/* .header-center{
+    left: 50%;
+} */
+.header-center{
+    text-align: center;
+}
+.center-block{
+    display:flex;
+    justify-content:center;
+}
+.link-center{
+    text-align: center;
+    margin: 0 auto;
+}
+.col-sm-2{
+    display: flex;
+    justify-content: center;
+}
+.seeifworks{
+    height:300px;
+    background-color: slategrey;
+    width: 200px;
+}
+.car-container{
+    margin-top: 100px;
+}
