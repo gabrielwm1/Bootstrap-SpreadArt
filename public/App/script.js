@@ -1,5 +1,5 @@
-"use strict"
+// "use strict"
 
-$(document).ready(()=>{
-    $('#carousel').carousel();
-});
+// $(document).ready(()=>{
+//     $('#carousel').carousel();
+// });
